@@ -1,17 +1,17 @@
-# v3
+# twinsten.github.io
 
-Third iteration of my personal website built with Jekyll.
+Just my website. The theme is from Britanny Chiang at [bchiang7.github.io](https://github.com/bchiang7/bchiang7.github.io)
 
-> 📢 **PSA for those who want to fork or copy this repo and use it for their own site:**
->
-> Please be a decent person and give me proper credit by linking back to my website! Refer to this handy [quora post](https://www.quora.com/Is-it-bad-to-copy-other-peoples-code) if you're not sure.
+----
 
-## Dependencies
+### What you can find here
 
-- [Gulp](https://gulpjs.com/)
+* My resume
+* Some of my open-source work
+* A basic about me page
 
-## Getting Started
+----
 
-1.  `gem install jekyll sass bundler jekyll-minifier jekyll-sitemap`
-2.  `npm install`
-3.  `npm start`
+### Development
+
+Building on Brittany Chiangs theme I simplified the stack to only use Jekyll.
