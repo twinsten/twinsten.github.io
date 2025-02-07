@@ -1,26 +1,26 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://bchiang7.github.io/
+name: twinsten
+title: Twinsten
+description: Data science and machine learning enthusiast
+url: https://twinsten.github.io/
 baseurl: ''
-email: brittany.chiang@gmail.com
-cover: https://bchiang7.github.io/img/og.png
-logo: https://bchiang7.github.io/img/emojis/technologist.png
-resume: https://bchiang7.github.io/resume.pdf
+email: 
+cover: https://twinsten.github.io/img/og.png
+logo: https://twinsten.github.io/img/emojis/technologist.png
+resume: https://twinsten.github.io/resume.pdf
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
+    url: mailto:test@test.com
   - title: twitter
-    url: https://twitter.com/bchiang7
+    url: 
   - title: instagram
-    url: https://instagram.com/bchiang7
+    url: 
   - title: codepen
-    url: http://codepen.io/bchiang7
+    url: 
   - title: github
-    url: https://github.com/bchiang7
+    url: https://github.com/twinsten
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: 
 
 # Build settings
 markdown: kramdown
