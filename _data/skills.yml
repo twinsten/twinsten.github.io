@@ -1,33 +1,34 @@
 languages:
-  - item: JavaScript (ES6)
-  - item: TypeScript
-  - item: HTML
-  - item: CSS/Sass
   - item: Python
+  - item: LaTeX
+  - item: MATLAB
+  - item: C
   - item: SQL
-  - item: R
 
 frameworks:
-  - item: Ember & Glimmer
-  - item: React
-  - item: Jekyll
-  - item: Node
-  - item: D3
-  - item: Wordpress
-  - item: Timber
+  - item: Pytorch
+  - item: TensorFlow
+  - item: Basics in FLAX
+  - item: MLFlow
+  - item: Tensorboard
+  - item: Docker
+  - item: Streamlit
+  - item: FastAPI
+  - item: Plotly
 
 tools:
   - item: Bash
   - item: Git & Github
-  - item: Gulp & Grunt
-  - item: Chrome DevTools
   - item: Postman
   - item: MongoDB
+  - item: SQLite
+  - item: Ollama
+  - item: OpenWebUI
+  - item: ComfyUI
+  - item: Fiji
 
 design:
-  - item: Sketch
-  - item: InDesign
-  - item: InVision
-  - item: Prototyping
-  - item: Wireframing
-  - item: User Testing
+  - item: Illustrator
+  - item: Gimp
+  - item: Figma
+  - item: Inkscape
